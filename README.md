@@ -1,2 +1,2 @@
 # mine_sweeper
-console minesweeper
+Just a simple game of minesweeper which is played through console
